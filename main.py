@@ -4,12 +4,12 @@ vec = pg.Vector2
 
 player_keybinds = {
     1: {
-    "up": pg.K_UP,
-    "down": pg.K_DOWN
-    },
-    2: {
     "up": pg.K_w,
     "down": pg.K_s
+    },
+    2: {
+    "up": pg.K_UP,
+    "down": pg.K_DOWN
     }
 }
 
